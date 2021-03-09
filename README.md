@@ -1,6 +1,5 @@
 # object-detection-tensorflow-webcam
 
-#Install command
 pip install -U --pre tensorflow=="2.*"
 pip install tf_slim
 pip install pycocotools

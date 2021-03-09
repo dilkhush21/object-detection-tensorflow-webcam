@@ -1,0 +1,7 @@
+Dont change location of any file
+pip install -U --pre tensorflow=="2.*"
+pip install tf_slim
+pip install pycocotools
+if there is error in installing pycocotools 
+then download c++ build from the diven link
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUI3Rk04cFVZWFdXZktXeFlQTHZHMmhfQVJLUXxBQ3Jtc0tsaVRuWG9zZ3RDSGU5YXFiYnBJWGpUNXlaSEdBQ1kwNGRSWF9aQTVxa3FjaURROGNQeHR5eEg4RTY0b2g1aDg5c3k2UmQ3bndiUHFBMTlkNWJjSkE3N1hjTWkxc1FjRXZ4S3ZrTk94Zm96X3FRSzBicw&q=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F5%2Ff%2F7%2F5f7acaeb-8363-451f-9425-68a90f98b238%2Fvisualcppbuildtools_full.exe%3FfixForIE%3D.exe
